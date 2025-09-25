@@ -1,3 +1,7 @@
+我是初中生，所以在处理 pull requests 与 issues 时也许效率会很低，见谅。:)
+
+I'm a junior high school student, so I might be quite inefficient when dealing with pull requests and issues. Please excuse me. :)
+
 ```C
 #include <stdio.h>
 
