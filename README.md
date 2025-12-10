@@ -110,6 +110,3 @@ struct AboutMe me = {
 ---
 
 # Index Of /
-
-- [🌲 Deep Think: MCTS sampling designed for LLMs, introduce LLM-UCT](https://github.com/Cotix-AI/Deep-Think)
-- [🛸 CodeCCAT: A micro language model for code completion and generation, public datasets, weights and code](https://github.com/Cotix-AI/CodeCCAT)
