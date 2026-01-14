@@ -4,10 +4,9 @@
 
 > 他会拿起一块蓝色玻璃，透过它看花园，花园里的沙地和路径会变成一种灰烬般的颜色，天空则变得异常深邃，仿佛热带的天空。（《说吧，记忆》，弗拉基米尔·纳博科夫）
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbue-bit&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=738b5d&text_color=ffffff" />
-</p>
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=imbue-bit)
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imbue-bit)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=%E7%A7%91%E7%BD%97%E5%BB%96%E5%A4%AB%E5%8D%81%E5%AD%97%E7%BB%BD%E5%BC%80%EF%BC%8C%E6%88%91%E6%98%AF%E5%8D%A1%E9%97%A8%E7%BA%BF%E4%B8%8A%E7%9A%84%E8%8A%B1&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -112,6 +111,7 @@ struct AboutMe me = {
 };
 ```
 
+<details>
 <summary><b>📖 Read my story </b></summary>
 
 在那段被世界公认为灾难、却被我私自标记为黄金时代的疫病岁月里，我总是蜷缩在枣庄冬天特有的那种混合着煤灰与干冷气味的昏暗卧室里，半开的百叶窗对的会是一堵墙，但中间有着不算小的，作为地下室屋顶的墙。电脑屏幕发出的幽蓝冷光是我视网膜上唯一值得信赖的信号，它总是照亮我的膝盖。
@@ -127,3 +127,12 @@ struct AboutMe me = {
 </details>
 
 ---
+
+<div align="center">
+<br />
+  
+![](https://komarev.com/ghpvc/?username=imbue-bit)
+
+<br />
+Life is a stochastic process; optimize for the long tail.
+</div>
