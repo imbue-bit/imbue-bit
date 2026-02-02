@@ -136,3 +136,10 @@ struct AboutMe me = {
 <br />
 Life is a stochastic process; optimize for the long tail.
 </div>
+
+---
+
+# 🤖 My Trained Models
+
+- [Socrates-embedding: A next-generation embedding model that outperforms an 83× larger parameter counterpart and achieves state-of-the-art accuracy under identical parameter budgets.](https://huggingface.co/Chunjiang-Intelligence/Socrates-embedding)
+- [LPR-Oracle: A model for forecasting China’s Loan Prime Rate (LPR) in financial markets.](https://huggingface.co/imbue2025/LPR-Oracle)
