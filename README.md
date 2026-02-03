@@ -133,7 +133,7 @@ struct AboutMe me = {
 ## 🤖 My Trained Models
 
 - [Socrates-embedding: A next-generation embedding model that outperforms an 83× larger parameter counterpart and achieves state-of-the-art accuracy under identical parameter budgets.](https://huggingface.co/Chunjiang-Intelligence/Socrates-embedding)
-- - [RWKV-7-Prover-1.5B: A formal mathematics model leveraging the RWKV-7 architecture and Condor-inspired data synthesis to enable high-precision Lean 4 statement generation and auto-formalization.](https://huggingface.co/imbue2025/RWKV-7-Prover-1.5b)
+- [RWKV-7-Prover-1.5B: A formal mathematics model leveraging the RWKV-7 architecture and Condor-inspired data synthesis to enable high-precision Lean 4 statement generation and auto-formalization.](https://huggingface.co/imbue2025/RWKV-7-Prover-1.5b)
 - [LPR-Oracle: A model for forecasting China’s Loan Prime Rate (LPR) in financial markets.](https://huggingface.co/imbue2025/LPR-Oracle)
 
 ---
