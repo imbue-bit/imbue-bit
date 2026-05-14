@@ -4,7 +4,9 @@
 
 *When the world stopped, I started compiling.*
 
-**Co-founder @ [Chunjiang Intelligence](https://github.com/Chunjiang-Intelligence) | AI Researcher & Quant Developer**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=Co-founder+@+Chunjiang+Intelligence;AI+Researcher;Quant+Developer;Taiwanese+Hipster" alt="Typing SVG" />
+</div>
 
 <a href="https://x.com/imbue_byte" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
