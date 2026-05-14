@@ -8,44 +8,37 @@
 
 <a href="https://x.com/imbue_byte" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-<a href="mailto:hi@chunjiang.dev">
-  <img src="https://img.shields.io/badge/Email-hi%40chunjiang.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br>
-
+</a><br/>
 <a href="https://space.bilibili.com/3706923325065226" target="_blank">
   <img src="https://img.shields.io/badge/Bilibili-FF8EB3?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
-</a>
+</a><br/>
+<a href="mailto:hi@chunjiang.dev">
+  <img src="https://img.shields.io/badge/Email-hi%40chunjiang.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a><br/>
 <a href="https://www.zhihu.com/people/ysrlxfu" target="_blank">
   <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu">
 </a>
 <a href="https://t.me/zhiran233" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-
-<br>
-
 <a href="https://music.163.com/#/user/home?id=132800588" target="_blank">
   <img src="https://img.shields.io/badge/Netease_Music-@千早千叶-FF0000?style=for-the-badge&logo=netease-cloud-music&logoColor=white" alt="Music">
 </a>
 <a href="javascript:void(0);">
   <img src="https://img.shields.io/badge/QQ-3816206539-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ">
 </a>
-
-<br>
-
-<br />
-
-> *他会拿起一块蓝色玻璃，透过它看花园，花园里的沙地和路径会变成一种灰烬般的颜色，天空则变得异常深邃，仿佛热带的天空。*  
-> — 《说吧，记忆》，弗拉基米尔·纳博科夫
-
+<br/>
 </div>
 
 <br>
 
 <br>
+
+
+> *他会拿起一块蓝色玻璃，透过它看花园，花园里的沙地和路径会变成一种灰烬般的颜色，天空则变得异常深邃，仿佛热带的天空。*  
+> — 《说吧，记忆》，弗拉基米尔·纳博科夫
+
+<br/>
 
 ## 🔬 Research & Publications
 My research focuses on bridging the gap between human intuition and machine scale, with a strong emphasis on Deep Learning Theory, LLM Reasoning, Long-Context Processing, and Quantitative Finance.
