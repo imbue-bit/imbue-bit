@@ -69,7 +69,7 @@ My research focuses on bridging the gap between human intuition and machine scal
 <summary><b>🌍 Beyond the Papers: My Multiverse of Engineering & Finance</b></summary>
 <br>
 
-*   📈 **Quantitative Finance:** I actively manage ~1 Million CNY in quantitative funds, integrating modern CS and deep learning into strategies to generate alpha.
+*   📈 **Quantitative Finance:** I actively manage ~5 Million CNY in quantitative funds, integrating modern CS and deep learning into strategies to generate alpha.
 *   ⚙️ **Systems & DevOps:** An advocate for Clean Code & TDD. I've achieved **C10K** via kernel tuning/IO multiplexing and ran CPU-based IDC services with a 1:20 overselling ratio. I'm proficient in K8s (Helm, Prometheus, Grafana, ELK), and have improved resource utilization by 17% through HPA and Limit/Request tuning. 
 *   🌐 **Frontend & UX:** With a deep focus on aesthetics and HCI, I leverage React, Vue, and Ionic to transform complex backend logic into elegant user experiences. An excellent system needs both robustness in algorithms and poetry in its UI.
 *   🛡️ **CTF & CP:** I'm active in XCTF (Crypto & Web) with contributions in problem-setting and write-ups, alongside a brief but intense stint in Competitive Programming.
