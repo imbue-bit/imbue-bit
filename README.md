@@ -83,6 +83,7 @@ My research focuses on bridging the gap between human intuition and machine scal
 *   **[Socrates-embedding](https://huggingface.co/Chunjiang-Intelligence/Socrates-embedding)**: A next-gen embedding model that outperforms an 83× larger parameter counterpart, achieving SOTA accuracy under identical budgets.
 *   **[RWKV-7-Prover-1.5B](https://huggingface.co/imbue2025/RWKV-7-Prover-1.5b)**: A formal math model leveraging RWKV-7 & Condor-inspired data synthesis for high-precision Lean 4 auto-formalization.
 *   **[LPR-Oracle](https://huggingface.co/imbue2025/LPR-Oracle)**: A forecasting model for China’s Loan Prime Rate (LPR) in financial markets.
+*   **[Thales](https://huggingface.co/Chunjiang-Intelligence/Thales)**: Thales is an interpretable, physics-informed deep learning surrogate model for ultra-fast, arbitrage-free option pricing and AI-decoded risk reporting.
 
 <br>
 
