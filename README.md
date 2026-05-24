@@ -13,7 +13,8 @@
 </a><br/>
 <a href="https://space.bilibili.com/3706923325065226" target="_blank">
   <img src="https://img.shields.io/badge/Bilibili-FF8EB3?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
-</a><br/>
+</a>
+<br/>
 <a href="mailto:hi@chunjiang.dev">
   <img src="https://img.shields.io/badge/Email-hi%40chunjiang.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a><br/>
@@ -26,10 +27,13 @@
 <a href="https://music.163.com/#/user/home?id=132800588" target="_blank">
   <img src="https://img.shields.io/badge/Netease_Music-@千早千叶-FF0000?style=for-the-badge&logo=netease-cloud-music&logoColor=white" alt="Music">
 </a>
+<a href="https://www.xiaohongshu.com/user/profile/6a12626e000000000103f800" target="_blank">
+  <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu">
+</a>
 <a href="javascript:void(0);">
   <img src="https://img.shields.io/badge/QQ-3816206539-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ">
 </a>
-<br/>
+
 </div>
 
 <br>
