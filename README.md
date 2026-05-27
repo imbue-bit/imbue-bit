@@ -46,7 +46,7 @@
 
 <br/>
 
-## 🔬 Research & Publications
+## 🔬 Recent Research & Publications
 My research focuses on bridging the gap between human intuition and machine scale, with a strong emphasis on Deep Learning Theory, LLM Reasoning, Long-Context Processing, and Quantitative Finance.
 
 <div align="center">
