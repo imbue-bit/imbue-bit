@@ -55,19 +55,59 @@ My research focuses on bridging the gap between human intuition and machine scal
     </a>
 </div>
 
-| Title & Core Idea                                                                                                     | Domain                               | Key Contribution                                                                                                                              |
-| :---------------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Data Scaling as Progressive Coverage of a Predictive Contribution Spectrum](https://arxiv.org/abs/2605.20196)**| Scaling Law | Real-data scaling laws are driven by progressively covering a latent predictive state spectrum rather than just token frequencies. By representing corpora as suffix-automata and using a global-KL spectrum, effective truncation ranks reliably predict excess loss across training sizes (\(R^2 \approx 0.96\)), confirming that scaling advances an effective frontier through this spectrum. | 
-| **[A Formal Kinetic Theory for Zeroth-Order Newton Dynamics](https://paper.chunjiang.dev/)**                              | Deep Learning Theory                 | Develops a kinetic framework for Z-O Newton methods, providing a Stein-corrected Hessian estimator and exposing the curvature-variance trade-off. |
-| **[The Statistical Illusion of Rejection Sampling in LLMs](https://paper.chunjiang.dev/)**                                | LLM Alignment                        | Bridges the gap between heuristic truncation in LLM sampling and true mathematical alignment, revealing statistical biases.                 |
-| **[Inverting the Search Dynamics: LLMs as Semantic Leaders in MCTS](https://paper.chunjiang.dev/)**                       | LLM Reasoning                        | Proposes ***Leader-Follower MCTS***, where the LLM steers search with macro-actions, achieving SOTA on GSM8K, MATH, and HumanEval.          |
-| **[Expected Value Alignment for Generative Reward Modeling](https://paper.chunjiang.dev/)**                               | Formal Mathematics                   | Introduces ***EVA***, a reward modeling paradigm for theorem proving that extracts continuous scores from discrete token distributions.       |
-| **[Soft-NBCE: Entropy-Weighted Chunk Fusion for Long-Context Decoding](https://paper.chunjiang.dev/)**                    | Long Context                         | Presents ***Soft-NBCE***, which replaces hard chunk selection with soft fusion, improving reasoning while maintaining memory efficiency.    |
-| **[Reconstructing High-Resolution Hyperparameter Loss Landscapes](https://paper.chunjiang.dev/)**                         | ML / Optimization                    | Frames hyperparameter tuning as a landscape reconstruction problem, using active surrogate modeling to find robust, generalizable minima.   |
-| **[Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Driving](https://paper.chunjiang.dev/)**               | Vision-Language-Action (VLA)         | A sparse, energy-based framework for autonomous driving that uses VLMs for class-agnostic perception and Lagrangian action minimization.  |
-| **[Deep Learning under Continuous Distribution Shift for Quant Finance](https://paper.chunjiang.dev/)**                   | Quantitative Finance                 | Formulates a non-stationary NTK and spectral tracking SDE to model DL performance under persistent market distribution shifts.            |
-| **[AdaPrecise: A Task-Agnostic Dynamic Precision Routing Framework](https://paper.chunjiang.dev/)**                        | Edge Inference                       | A Gumbel-Softmax based framework for dynamic precision routing that optimizes model efficiency for inference on edge devices.               |
+<br/>
 
+### 📂 Research by Domain
+
+<details open>
+<summary><b>📐 Deep Learning Theory & Scaling Laws</b></summary>
+<br/>
+
+*   **[Data Scaling as Progressive Coverage of a Predictive Contribution Spectrum](https://arxiv.org/abs/2605.20196)**
+    *   *Core Contribution:* Real-data scaling laws are driven by progressively covering a latent predictive state spectrum rather than just token frequencies. By representing corpora as suffix-automata and using a global-KL spectrum, effective truncation ranks reliably predict excess loss across training sizes ($R^2 \approx 0.96$).
+*   **[A Formal Kinetic Theory for Zeroth-Order Newton Dynamics](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* Develops a kinetic framework for Z-O Newton methods, providing a Stein-corrected Hessian estimator and exposing the curvature-variance trade-off.
+*   **[Reconstructing High-Resolution Hyperparameter Loss Landscapes](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* Frames hyperparameter tuning as a landscape reconstruction problem, using active surrogate modeling to find robust, generalizable minima.
+
+</details>
+
+<details>
+<summary><b>🧠 LLM Reasoning & Alignment</b></summary>
+<br/>
+
+*   **[Inverting the Search Dynamics: LLMs as Semantic Leaders in MCTS](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* Proposes *Leader-Follower MCTS*, where the LLM steers search with macro-actions, improving performance on GSM8K, MATH, and HumanEval.
+*   **[The Statistical Illusion of Rejection Sampling in LLMs](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* Bridges the gap between heuristic truncation in LLM sampling and true mathematical alignment, revealing statistical biases.
+*   **[Expected Value Alignment for Generative Reward Modeling](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* Introduces *EVA*, a reward modeling paradigm for theorem proving that extracts continuous scores from discrete token distributions.
+*   **[Soft-NBCE: Entropy-Weighted Chunk Fusion for Long-Context Decoding](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* Presents *Soft-NBCE*, which replaces hard chunk selection with soft fusion, improving reasoning while maintaining memory efficiency.
+
+</details>
+
+<details>
+<summary><b>📈 Quantitative Finance & Applied Systems</b></summary>
+<br/>
+
+*   **[Deep Learning under Continuous Distribution Shift for Quant Finance](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* Formulates a non-stationary NTK and spectral tracking SDE to model DL performance under persistent market distribution shifts.
+*   **[AdaPrecise: A Task-Agnostic Dynamic Precision Routing Framework](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* A Gumbel-Softmax based framework for dynamic precision routing that optimizes model efficiency for inference on edge devices.
+
+</details>
+
+<details>
+<summary><b>🚗 Vision-Language-Action (VLA) & Embodied AI</b></summary>
+<br/>
+
+*   **[Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Driving](https://paper.chunjiang.dev/)**
+    *   *Core Contribution:* A sparse, energy-based framework for autonomous driving that uses VLMs for class-agnostic perception and Lagrangian action minimization.
+
+</details>
+
+<br>
 <br>
 
 <details>
@@ -216,7 +256,7 @@ struct AboutMe me = {
         .tools = {
             .version_control = { "Git", "GitHub" },
             .editors_ides = { "VS Code", "Neovim", "JetBrains IDEs" },
-            .operating_systems = { "Linux (Ubuntu, Arch)", "Windows (WSL2)", "macOS" },
+            .operating_systems = { "Linux (Ubuntu, CentOS, Manjaro, Rocky Linux)", "Windows (WSL2)", "macOS" },
             .design_tools = { "Figma", "Adobe XD" }
         }
     }
