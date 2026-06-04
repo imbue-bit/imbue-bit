@@ -137,7 +137,7 @@ My research focuses on bridging the gap between human intuition and machine scal
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=imbue-bit&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://trophy.ryglcloud.net/?username=imbue-bit&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </a>
 
 <br><br>
