@@ -24,7 +24,7 @@
 <a href="https://t.me/zhiran233" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="https://music.163.com/#/user/home?id=132800588" target="_blank">
+<a href="https://music.163.com/#/user/home?id=7826076470" target="_blank">
   <img src="https://img.shields.io/badge/Netease_Music-@千早千叶-FF0000?style=for-the-badge&logo=netease-cloud-music&logoColor=white" alt="Music">
 </a>
 <a href="https://www.xiaohongshu.com/user/profile/6a12626e000000000103f800" target="_blank">
